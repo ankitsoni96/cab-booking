@@ -1,0 +1,14 @@
+{
+    "en" : {
+        "DB_ERROR" : "Database Error",
+        "SUCCESS" : "Success",
+        "NOT_AUTHORIZED" : "Not Authorized!",
+        "PARAM_REQUIRED" : "PARAM is required.",
+        "INVALID_PARAM" : "Invalid PARAM.",
+        "DOES_NOT_EXIST" : "PARAM does not exist.",
+        "ALREADY_EXISTS" : "PARAM already exits.",
+
+        "GET_BOOKING_HISTORY_SUCCESSFULLY":"Booking history get successfully.",
+        "CAB_BOOKED_SUCCESSFULLY":"Cab booked successfully."
+    }
+}
